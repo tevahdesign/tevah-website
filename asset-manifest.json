@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c6ba113.css",
+    "main.js": "/static/js/main.1dd100e0.js",
+    "static/js/453.d7562316.chunk.js": "/static/js/453.d7562316.chunk.js",
+    "static/media/home-background.png": "/static/media/home-background.1af476a4893a4baf010f.png",
+    "static/media/contact-form-top-bg.png": "/static/media/contact-form-top-bg.c7f224c2b02371047973.png",
+    "static/media/what-we-do-hover.png": "/static/media/what-we-do-hover.a3a383b3b7c114750beb.png",
+    "static/media/Sk-Modernist-Light.ttf": "/static/media/Sk-Modernist-Light.77e5f2a069428ef08721.ttf",
+    "static/media/NeoSansProMedium.OTF": "/static/media/NeoSansProMedium.37952ec47ffc80caf0a3.OTF",
+    "static/media/Sk-Modernist-Bold.otf": "/static/media/Sk-Modernist-Bold.109e834ca74015344f25.otf",
+    "static/media/Sk-Modernist-Regular.otf": "/static/media/Sk-Modernist-Regular.748466dca5113482a27f.otf",
+    "static/media/sliding-box-bg.png": "/static/media/sliding-box-bg.4c2436bc25921c0235d9.png",
+    "index.html": "/index.html",
+    "main.0c6ba113.css.map": "/static/css/main.0c6ba113.css.map",
+    "main.1dd100e0.js.map": "/static/js/main.1dd100e0.js.map",
+    "453.d7562316.chunk.js.map": "/static/js/453.d7562316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6ba113.css",
+    "static/js/main.1dd100e0.js"
+  ]
+}
